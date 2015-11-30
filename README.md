@@ -6,9 +6,9 @@ That's what this Java class is designed for: A Swing frame combined with a littl
 
 # This package contains the following items:
 
-* doc: A little document showing how to use this class and the results it provides.\n
-* src/main: A Main class which can be executed to show an example of the working class.\n
-* src/resources: A folder containing a Creative-Commons image.\n
+* doc: A little document showing how to use this class and the results it provides.
+* src/main: A Main class which can be executed to show an example of the working class.
+* src/resources: A folder containing a Creative-Commons image.
 * src/splash: The SplashScreen class itself.
 
 # Usage:
