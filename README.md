@@ -1,4 +1,4 @@
-** UISplashScreen is a really simple, yet clean, way of providing a SplashScreen to your Java Application ** 
+**-* UISplashScreen is a really simple, yet clean, way of providing a SplashScreen to your Java Application *-** 
 
 Since native implementation of Splash Screens come with no little shenanigans I came up with the necessity of creating a Splash Screen. This Splash Screen should be used to show the user a load progress screen while displaying a nice image such as Company logos or a presentation image.
 
